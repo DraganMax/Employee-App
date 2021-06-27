@@ -1,6 +1,6 @@
 # Employee-App
 
-Web 'Employee' application for private task in VISMA.
+Web 'Employee' application written on C# and VueJS for private task in VISMA.
 
 
 # What is Kubernetes and for what purposes it used?
